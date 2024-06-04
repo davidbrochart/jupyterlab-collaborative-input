@@ -1,0 +1,6 @@
+node_modules
+dist
+coverage
+**/*.d.ts
+jupyterlab_collaborative_input
+ui-tests
